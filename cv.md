@@ -7,7 +7,6 @@
 - Skype: [gleb.dmi](skype:gleb.dmi?chat)
 
 ## Summary 
-
 A beginner frontend developer passionate about high quality user interfaces.
 Currently I'm learning fundamental technologies and tools of web development. My main focus right now is on accessibility and perfomance.
 
@@ -31,6 +30,7 @@ I took a couple of intensive courses at [HTML Academy](https://htmlacademy.ru/) 
 Here you can find certificates: 
 1. [HTML & CSS Level 1](https://assets.htmlacademy.ru/certificates/intensive/155/1183083.pdf?1596386338)
 2. [HTML & CSS Level 2](https://assets.htmlacademy.ru/certificates/intensive/157/1183083.pdf?1596386355)
+
 ## English
 Current level: B1.
 
