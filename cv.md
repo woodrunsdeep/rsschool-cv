@@ -8,7 +8,7 @@
 
 ## Summary
 A beginner frontend developer passionate about high quality user interfaces.
-Currently I'm learning fundamental technologies and tools of web development. My main focus right now is on accessibility and perfomance.
+Currently I'm learning fundamental technologies and tools of web development. My main focus right now is on accessibility and performance.
 
 ## Skills
 - HTML
